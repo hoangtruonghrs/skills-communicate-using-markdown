@@ -7,3 +7,6 @@ wuwa
 ``` python
 testVar = [1,2,3]
 ```
+
+- [x] This item is complete
+- [ ] This item is not complete
